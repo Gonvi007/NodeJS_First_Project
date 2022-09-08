@@ -6,8 +6,8 @@ https://youtu.be/OVESuyVoPkI
 
 Los siguientes comandos son para su funcionamiento:
 
-    1. ```npm i express ejs``` en cual instala:
+    1. ***npm i express ejs*** en cual instala:
         - express
         - morgan
         - ejs
-    2. ```npm i nodemon -D```
+    2. ***npm i nodemon -D***
